@@ -60,7 +60,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Mercusuar ⛯',
+        title: 'Mercusuar',
         logo: {
           alt: 'Dino',
           src: 'img/logo.svg',
