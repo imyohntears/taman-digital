@@ -107,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ebegu, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mee yoka.`,
       },
       prism: {
         theme: darkCodeTheme,
