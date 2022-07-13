@@ -2,10 +2,6 @@
 
 I try to be aware of my digital fingerprint on the Internet. Who owns the data I create and the data traces I leave.
 
-I made a [repository](https://github.com/nikitavoloboev/privacy-respecting) to share all the various alternatives to popular often centralized and _free_ services that are available. And I wrote an [article](https://medium.com/@nikitavoloboev/like-a-dog-on-a-leash-c0cdb8839079) with some of my thoughts on the matter.
-
-I use [Hosts](https://github.com/StevenBlack/hosts) and [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) for both mac & iOS to limit tracking.
-
 And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/Differential_privacy) and [Homomorphic encryption](http://en.wikipedia.org/wiki/Homomorphic_encryption).
 
 ## Notes

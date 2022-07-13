@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Jurnal Pribadi` }
-      description="Description will go into a meta tag in <head />">
+      title={''}
+      description="Taman Digital">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
