@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Taman Digital 🌿',
-  tagline: 'Jurnal digital milik Yose Giyay, di awan untuk dibagikan.',
+  title: 'Mercusuar ⛯ ',
+  tagline: 'Taman digital 🌿 milik Yose Giyay | di awan untuk dibagikan.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
