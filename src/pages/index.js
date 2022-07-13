@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={''}
-      description="Taman Digital">
+      title={'Taman Digital'}
+      description="Sebuah Jurnal Daring">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
