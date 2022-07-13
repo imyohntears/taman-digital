@@ -7,10 +7,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mercusuar ⛯',
-  tagline: 'Taman digital 🌿 milik Yose Giyay | di awan untuk dibagikan.',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Jurnal daring milik Yose Marthin Giyay.',
+  url: 'https://mercusuar.vercel.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
 
@@ -58,10 +58,9 @@ const config = {
     ({
       colorMode: {
         respectPrefersColorScheme: true,
-        disableSwitch: true,
       },
       navbar: {
-        title: 'Taman Digital',
+        title: 'Mercusuar ⛯',
         logo: {
           alt: 'Dino',
           src: 'img/logo.svg',
@@ -71,7 +70,7 @@ const config = {
             type: 'doc',
             docId: 'intro/intro',
             position: 'left',
-            label: 'Arsip',
+            label: 'Taman Digital 🌿',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -87,8 +86,7 @@ const config = {
           {
             href: 'https://github.com/taman-digital/',
             position: 'right',
-            className: "header-github-link",
-            "aria-label": "GitHub repository",
+            label: 'GitHub',
           },          
         ],
       },
@@ -96,29 +94,15 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Lain-lain',
             items: [
               {
-                label: 'Taman Digital',
-                to: '/docs',
+                label: 'Telegram',
+                href: 'https://t.me/harpokratez',
               },
-            ],
-          },
-          {
-            title: 'Kontak',
-            items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/jind0sh',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Masimlameraido',
+                href: 'https://discord.gg/vPZTymY426',
               },
             ],
           },
@@ -127,7 +111,7 @@ const config = {
       },
       prism: {
         theme: darkCodeTheme,
-        darkTheme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
       },
     }),
 };

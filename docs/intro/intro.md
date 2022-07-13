@@ -6,11 +6,11 @@ sidebar-position: 1
 
 # Taman Digital 🌿
 
-Selamat datang. Ini sa punya wiki pribadi, tempat di mana sa prasastikan dan bagikan beragam hal yang sa tertarik untuk pelajari lebih lanjut dalam bentuk wiki online memakai Docusaurus di GitHub.
+Selamat datang. Ini sa punya wiki pribadi, tempat di mana sa prasastikan bagikan beragam hal yang sa tertarik untuk pelajari lebih lanjut dalam bentuk wiki online memakai Docusaurus di GitHub.
 
 
 ## Ini apa?!!
-Anggap saja ini sa punya "otak digital", bookmark lebih canggih mungkin hahaha. Di taman ini nanti ada sa punya catatan-catatan, tulisan-tulisan sembarang, tautan-tautan menarik yg sa cukup peduli untuk pelajari yang kemudian bisa dibagikan. Sudah capek kehilangan *notes*.
+Anggap saja ini sa punya "otak digital". Di taman ini nanti ada sa punya catatan-catatan, tulisan-tulisan sembarang, tautan-tautan menarik yg sa cukup peduli untuk pelajari yang kemudian bisa dibagikan. Sudah capek kehilangan *notes*.
 
 Setelah intro, setiap laman di *sidebar* diurut secara alfabetik. Nanti pasti akan beranak-cucu seperti boneka Rusia tapi jelajahi saja, mungkin ada sesuatu yang memikat mata.
 
