@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'Taman Digital',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Dino',
           src: 'img/logo.svg',
         },
         items: [
@@ -122,8 +122,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Ebegu, Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: darkCodeTheme,
+        darkTheme: lightCodeTheme,
       },
     }),
 };
