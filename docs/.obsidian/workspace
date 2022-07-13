@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "machine-learning/artificial-intelligence.md",
+            "file": "intro/intro.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "machine-learning/artificial-intelligence.md",
+                "file": "intro/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a31c3f4097fd2265",
   "lastOpenFiles": [
+    "machine-learning/artificial-intelligence.md",
     "data-science/data-science.md",
     "data-science/data-visualization.md",
     "data-science/data-processing.md",
@@ -97,7 +98,6 @@
     "intro.md",
     "sharing/my-workflow.md",
     "sharing/sharing.md",
-    "other/wiki-workflow.md",
-    "education/university.md"
+    "other/wiki-workflow.md"
   ]
 }
