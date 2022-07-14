@@ -34,6 +34,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          // routeBasePath: "/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -55,7 +56,7 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    ({ 
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -112,6 +113,17 @@ const config = {
       prism: {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'F6VM69UA2E',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'e7ac2f64d7a14126b9f0f38db16ddbb9',
+  
+        indexName: 'taman-digital',
+        
       },
     }),
 };

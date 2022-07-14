@@ -4,15 +4,15 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Ide',
+    title: '',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
   },
   {
-    title: 'Catatan',
+    title: '',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
   },
   {
-    title: 'Proyek',
+    title: '',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
   },
 ];
