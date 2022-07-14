@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "privacy/privacy.md",
+            "file": "health/health.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "privacy/privacy.md",
+                "file": "health/health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a31c3f4097fd2265",
   "lastOpenFiles": [
+    "health/mindfulness/mindfulness.md",
+    "health/health.md",
+    "health/mindfulness/meditation.md",
+    "health/skin-care.md",
+    "health/ergonomics.md",
+    "health/aging.md",
+    "health/depression.md",
+    "privacy/privacy.md",
     "intro/intro.md",
-    "machine-learning/artificial-intelligence.md",
-    "data-science/data-science.md",
-    "data-science/data-visualization.md",
-    "data-science/data-processing.md",
-    "books/books.md",
-    "books/mind-for-numbers.md",
-    "intro.md",
-    "sharing/my-workflow.md",
-    "sharing/sharing.md"
+    "machine-learning/artificial-intelligence.md"
   ]
 }
