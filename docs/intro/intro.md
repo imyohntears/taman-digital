@@ -37,4 +37,4 @@ Ini ajakan: sa harap yang datang di sini juga berniat bagikan apa yang mereka ta
 
 Sa aktif di [Twitter](https://twitter.com/jind0sh) , [Instagram](https://www.instagram.com/giyaibo/) dan [Telegram](https://t.me/harpokratez) 
 
-## Kasumasa
+### Ide Umina

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "health/health.md",
+            "file": "intro/intro.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "health/health.md",
+                "file": "intro/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "a31c3f4097fd2265",
   "lastOpenFiles": [
-    "health/mindfulness/mindfulness.md",
     "health/health.md",
+    "health/mindfulness/mindfulness.md",
     "health/mindfulness/meditation.md",
     "health/skin-care.md",
     "health/ergonomics.md",
